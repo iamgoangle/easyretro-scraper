@@ -1,0 +1,21 @@
+{
+  "name": "easyretro-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamgoangle/easyretro-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamgoangle/easyretro-scraper/issues"
+  },
+  "homepage": "https://github.com/iamgoangle/easyretro-scraper#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
